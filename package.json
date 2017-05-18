@@ -1,0 +1,30 @@
+{
+  "name": "newman-reporter-phpunit",
+  "version": "0.1.1",
+  "description": "A newman reporter with a PHPUnit like style. It shows all details including the response body when a request is failing.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semlabs/newman-reporter-phpunit.git"
+  },
+  "keywords": [
+    "postman",
+    "newman",
+    "reporter",
+    "api",
+    "test",
+    "phpunit"
+  ],
+  "author": "SE.M.LABS GmbH <https://www.semlabs.de>",
+  "license": "MIT",
+  "contributors": [
+    "Marian Bäuerle <m.baeuerle@semlabs.de> (https://github.com/mbaeuerle)"
+  ],
+  "bugs": {
+    "url": "https://github.com/semlabs/newman-reporter-phpunit/issues"
+  },
+  "homepage": "https://github.com/semlabs/newman-reporter-phpunit#readme"
+}
