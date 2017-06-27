@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-phpunit",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A newman reporter with a PHPUnit like style. It shows all details including the response body when a request is failing.",
   "main": "lib/index.js",
   "scripts": {
